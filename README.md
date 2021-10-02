@@ -6,4 +6,4 @@ for i in range(-1,-len(a)-1,-1):
 if b==a:
 	print("pallindrom")
 else:
-	print("yes")
+	print("no")
