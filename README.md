@@ -7,5 +7,5 @@ if b==a:
 	print("pallindrom")
 elif a>b:
 	print("no")
-else:
+elif a>b:
         print("yes")
