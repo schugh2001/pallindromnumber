@@ -9,3 +9,5 @@ elif a>b:
 	print("no")
 elif a>b:
         print("yes")
+elif a>5:
+        print("5")
