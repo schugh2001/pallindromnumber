@@ -6,8 +6,8 @@ for i in range(-1,-len(a)-1,-1):
 if b==a:
 	print("pallindrom")
 elif a>b:
-	print("no")
+	print("NO")
 elif a>b:
-        print("yes")
+        print("YES")
 elif a>5:
         print("5")
