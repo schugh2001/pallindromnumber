@@ -10,4 +10,4 @@ elif a>b:
 elif a>b:
         print("YES")
 elif a>5:
-        print("5")
+        print("5") ()
